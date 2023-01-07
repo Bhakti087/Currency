@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DOCUMENTATION
 
 Describe ERC-20.
 
